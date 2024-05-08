@@ -10,7 +10,7 @@ Familiarize yourself with the key ONE Record resources:
 - [API Specification and Security](https://iata-cargo.github.io/ONE-Record/)
 
 - [Official ONE Record Repository](https://github.com/IATA-Cargo/ONE-Record)
-- 
+
 - [Best Practices for Shipment Tracking Use Case](https://github.com/digital-cargo/good-practice-shipment-tracking)
 
 
