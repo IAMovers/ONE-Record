@@ -100,7 +100,7 @@ We prepared a Postman collection with a few common API calls to get you up and r
 
 ## 4. Add the NE:ONE server into NE:ONE Play
 
-1. Connect to NE:ONE Play http://localhost:3001 and click on the setting button
+1. Connect to NE:ONE Play by typing http://localhost:3001 on your browser and click on the setting button
 
 ![NE ONE Play Settings](https://github.com/alvastein/one-record-workshop/assets/168312567/acbf2874-06f0-403e-b6d5-914607df0e13)
 
