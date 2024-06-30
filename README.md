@@ -83,7 +83,7 @@ We prepared a Postman collection with a few common API calls to get you up and r
 
 ![Create Environment](https://github.com/alvastein/one-record-workshop/assets/168312567/abc2bfcb-1795-4f02-a641-e253358c3687)
 
-4. Create the variables baseUrlKeycloak and baseUrlOneRecord and set their current values to localhost:8989 and localhost:8080 respectively. Click save and choose the ONE Record environment from the dropdow list.
+4. Create the variables baseUrlKeyCloak and baseUrlOneRecord (case sensitive) and set their current values to localhost:8989 and localhost:8080 respectively. Click save and choose the ONE Record environment from the dropdow list.
 
 ![Create Environment Variables](https://github.com/alvastein/one-record-workshop/assets/168312567/8cb080f3-c7ec-464b-9002-240f657d1616)
 
