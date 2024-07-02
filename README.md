@@ -87,7 +87,7 @@ We prepared a Postman collection with a few common API calls to get you up and r
 
 ![Create Environment Variables](https://github.com/alvastein/one-record-workshop/assets/168312567/8cb080f3-c7ec-464b-9002-240f657d1616)
 
-5. Trigger the Token Request endpoint and copy the access_token from the response.
+5. Trigger the Token Request endpoint and copy the access_token from the response, **without the quotation marks that open and close the string**.
 
 ![Get and copy token](https://github.com/alvastein/one-record-workshop/assets/168312567/0a65be1d-b068-4f8e-8b80-e3c6c4f15910)
 
